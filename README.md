@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EmailCountdown
 ==============
 
@@ -22,3 +23,7 @@ This generates an image based on the following variables:
   );
 ```
 
+=======
+# countdown-timer
+Countdown timer for Emails
+>>>>>>> e1fc35efbb5dc0a6e58bd35216e44c041bd4195e
